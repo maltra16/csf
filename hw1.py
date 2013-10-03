@@ -52,3 +52,6 @@ print((hw1_test.a and hw1_test.b) or ( not hw1_test.c) and not (hw1_test.d or hw
 ###
 ### Collaboration:
 ##Betsy Kelley,  DJ Porter, Travis Malone
+
+
+### Reflection: This assignment took us an hour and 15 minutes. We used the internet for a bit of information, but the provided information was mostly enough. 
