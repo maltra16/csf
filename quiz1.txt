@@ -1,0 +1,2 @@
+Import lab2
+while (n>0)(print("hello world") set n=n-1)
